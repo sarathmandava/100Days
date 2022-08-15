@@ -5,7 +5,7 @@ language = "python3"
 # A list of globs that specify which files and directories should
 # be hidden in the workspace.
 hidden = ["venv", ".config", "**/__pycache__", "**/.mypy_cache", "**/*.pyc"]
-run = "python /home/runner/100Days/Day\\ 1/main.py"
+run = "python /home/runner/100Days/Day\\ 2/test.py"
 
 # Specifies which nix channel to use when building the environment.
 [nix]
