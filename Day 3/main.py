@@ -29,7 +29,3 @@ swim_or_wait(sw_answer)
 
 choose_color = input("\nWhich color would you choose between red/blue/yellow colored doors?\t")
 choose_color_door(choose_color)
-
-
-
-
